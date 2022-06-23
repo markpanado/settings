@@ -1,0 +1,178 @@
+disabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: almenon.arepl
+    uuid: 88eb8072-5ab1-457b-9835-6d92196388a3
+  - id: benawad.stories
+    uuid: 166ea864-c0e8-4768-aff8-7533af0ffd6c
+  - id: blinkshellinc.blink-fs
+    uuid: 36e89c61-e8f2-4e17-9077-a041410e66bc
+  - id: ecmel.vscode-html-css
+    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: gitduck.code-streaming
+    uuid: 2d46f158-c6d5-457f-b5d3-e2b31709e0ed
+  - id: hoovercj.vscode-power-mode
+    uuid: a27ff63d-ff11-478d-b1ab-19aa1ef19882
+  - id: jdinhlife.gruvbox
+    uuid: c6d564c4-ca8c-45ba-abf6-c85f2d1468d8
+  - id: kamikillerto.vscode-colorize
+    uuid: 445ba381-f232-4150-9056-d790bd76d698
+  - id: ms-mssql.mssql
+    uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
+  - id: ms-mssql.sql-database-projects-vscode
+    uuid: 4e9e1d12-64b6-4573-9203-f601d27de5a3
+  - id: olback.es6-css-minify
+    uuid: f92f3867-b874-416b-82b5-f806f729b518
+  - id: stxr.iconfont-preview
+    uuid: 394c2c51-f9cf-48b6-901d-6382060a9de1
+  - id: stylelint.vscode-stylelint
+    uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
+  - id: syler.sass-indented
+    uuid: 466468c3-1861-4ad1-bf3e-f9ad46545ebb
+  - id: xfilipe.keyboard-sounds
+    uuid: 295be590-00ba-4700-a614-ce0ad6a6ee22
+enabled:
+  - id: adpyke.vscode-sql-formatter
+    uuid: ac70a31d-d9ab-417b-b259-baf7cd9d6cb0
+  - id: ahmadalli.vscode-nginx-conf
+    uuid: 9a97436d-76aa-479c-8ae9-db2f400a7b04
+  - id: alefragnani.Bookmarks
+    uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
+  - id: alefragnani.project-manager
+    uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: alexkrechik.cucumberautocomplete
+    uuid: 25e38b8d-ff51-4c34-af36-b7b7961cf666
+  - id: BitBelt.converttoasciiart
+    uuid: 2a499eca-c145-4b6d-b5ef-6eea9e983972
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: CoenraadS.bracket-pair-colorizer
+    uuid: f583eafd-aa0d-4ccb-8f44-d1e610389660
+  - id: dakshmiglani.hex-to-rgba
+    uuid: d6e20d26-9e5c-4b69-953a-638bcde16ea3
+  - id: dbaeumer.jshint
+    uuid: 82dfe17d-bb64-404e-bcc5-f9803f7ab5d5
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
+  - id: dunstontc.viml
+    uuid: 7bfe5a0b-4cab-40a1-9314-48f86c1d1b4e
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.code-runner
+    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: foxundermoon.shell-format
+    uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
+  - id: geeksharp.openssl-configuration-file
+    uuid: 4dbb8f55-285c-451e-9340-3642fbab3603
+  - id: hangxingliu.vscode-nginx-conf-hint
+    uuid: c3d3e8fb-c61d-4edf-8fb8-32298bc763f9
+  - id: helixquar.asciidecorator
+    uuid: 3c828576-2da9-433e-ac8a-bc7ce2f6a684
+  - id: HookyQR.minify
+    uuid: 6d40d0bb-f7f2-4d8b-94a9-ad03aa13fb8f
+  - id: kisstkondoros.vscode-gutter-preview
+    uuid: eedfd044-d5ac-4389-973d-3ac1fdb98ad5
+  - id: liximomo.sftp
+    uuid: ed3575fb-5812-4a43-9efb-c19649137420
+  - id: marcostazi.VS-code-drupal
+    uuid: 946d9406-d60f-4a31-b6d8-81604e06dd72
+  - id: markpanado.monokai-exex
+    uuid: null
+  - id: mblode.twig-language-2
+    uuid: bfcc4184-7b55-410e-a012-20ee54be9264
+  - id: meganrogge.template-string-converter
+    uuid: e56ae0dc-ddd7-462a-872d-6d14ea27f737
+  - id: mgmcdermott.vscode-language-babel
+    uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
+  - id: mkxml.vscode-filesize
+    uuid: 21b3e09e-b3f7-4e20-9302-50039286650d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-dotnettools.csharp
+    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
+  - id: ms-mssql.data-workspace-vscode
+    uuid: 88e082b7-d289-4c59-bde4-4c61e0280428
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: neptunedesign.vs-slug
+    uuid: feaf6d48-58b3-4bb0-89fe-1af63d071b46
+  - id: njpwerner.autodocstring
+    uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
+  - id: oderwat.indent-rainbow
+    uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: raynigon.nginx-formatter
+    uuid: 1a7b1f64-469d-4116-bb35-508ea3894f88
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: redhat.vscode-xml
+    uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
+  - id: ritwickdey.live-sass
+    uuid: ad94b437-b5a7-4249-bf5f-df472ae0d084
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: sainnhe.gruvbox-material
+    uuid: d9437be1-e21c-4e9a-9548-e63650468296
+  - id: sleistner.vscode-fileutils
+    uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: sysoev.language-stylus
+    uuid: 93ecc089-f396-47b4-8676-7fa3bc156a2c
+  - id: tommasov.hosts
+    uuid: aed924ee-6b7f-4239-bd31-9211a1e7e448
+  - id: Tyriar.lorem-ipsum
+    uuid: 489abeb0-400c-4a08-bde4-cf5d9b863a32
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: Vue.volar
+    uuid: a5223b43-8621-4351-a14e-3d560f85f277
+  - id: whatwedo.twig
+    uuid: 3324c5be-43aa-4c39-a0f8-d94c2978804f
+  - id: william-voyek.vscode-nginx
+    uuid: 414b2873-c80e-4dc6-9031-bd185cfb3944
+  - id: wix.vscode-import-cost
+    uuid: c46b0018-f317-4b6c-a785-d2039b27338f
